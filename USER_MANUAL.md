@@ -10,7 +10,7 @@ The portfolio is structured using the following components:
 4. **Project Files**: This section contains the actual files and resources related to our project. These files might include documents, design files (e.g., Figma prototypes), or other relevant materials.
 
 ## Navigating the Porfolio
-1. **GitHub Repository**: The portfolio is hosted on GitHub, a popular platform for version control and collaboration. You can access the repository at [Github Link].
+1. **GitHub Repository**: The portfolio is hosted on GitHub, a popular platform for version control and collaboration. You can access the repository at [Github Link](https://github.com/jomermandap/HCI_School_Portfolio).
 2. **README File**: The README file provides an overview of the project, its purpose, and its key features. It also serves as a starting point for navigating the repository.
 3. **Project Files**: The project files are organized into folders (if applicable) to ensure clarity and ease of access. You can explore these folders to find specific files or resources related to the project.
 
