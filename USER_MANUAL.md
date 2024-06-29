@@ -19,7 +19,7 @@ The project includes interactive prototypes created using Figma, you can find th
 1. **Download the Figma File**: Download the Figma file (.fig) from this [link](https://malayancollegesmindanaoo365-my.sharepoint.com/:f:/g/personal/jrmandap_mcm_edu_ph/EqNG9--ho5BDo4izUsqzPSMBNPUWjV6w17ZabZRKJokjew?e=rPOF4h).
 2. **Open Figma**: Open the Figma file using the Figma desktop application or web browser.
 3. **Interact with the Prototype**: The Figma prototype will allow you to explore the user interface and interact with various elements, providing a simulated experience of the project's functionality.
-If you want to directly try the prototype without downloading necessary files, you can access it directly at [Figma Prototype Link](https://www.figma.com/proto/HXimeAY1wa8v0WInE2X0eX/Prototype-HCI?node-id=0-1&t=Mi6nGFfrKYgmfngQ-1).
+4. **Access from Web**: If you want to directly try the prototype without downloading necessary files, you can access it directly from [here](https://www.figma.com/proto/HXimeAY1wa8v0WInE2X0eX/Prototype-HCI?node-id=0-1&t=Mi6nGFfrKYgmfngQ-1).
 
 ## Additional Information
 Feel free to explore the repository and its contents. If you have any questions or need further clarification, please don't hesitate to contact our team. We are happy to provide additional information or assistance.
