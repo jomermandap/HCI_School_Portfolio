@@ -1,2 +1,3 @@
 # HCI_School_Portfolio
 School Portfolio for LinTech's Final Project
+[{"file_name":"README.md","file_content":"# HCI School Portfolio\n\nThis repository contains the final project for LinTech's HCI course. The project aims to explore and demonstrate various HCI concepts and principles through a practical application. \n\n## The Logo\n\nThe logo features a stylized representation of a letter 'X' with a circular dot, symbolizing interconnectedness and innovation. The logo is displayed in a modern and clean design, reflecting the project's focus on user-centered design and technology.","url":"","url_content":""}]
