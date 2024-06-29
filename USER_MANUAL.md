@@ -5,9 +5,9 @@ This portfolio showcases our final project for the HCI course, incorporating var
 ## Usage Instructions 
 The portfolio is structured using the following components:
 1. **Team Logo**: The logo represents our team's identity and is visually appealing, emphasizing user-centered design principles.
-2. **Coursera** Certificate: This certificate serves as documentation of our successful completion of the HCI course, demonstrating our dedication to learning and applying HCI principles.
+2. **Coursera Certificate**: This certificate serves as documentation of our successful completion of the HCI course, demonstrating our dedication to learning and applying HCI principles.
 3. **User Manual**: This document, which you are currently reading, provides detailed information on navigating the portfolio and understanding its purpose.
-4. **Project Files**: This section contains the actual files and resources related to our project. These files might include documents, design files (e.g., Figma prototypes), or other relevant materials. Access it throught the **Assests** folder or throught this [link](https://github.com/jomermandap/HCI_School_Portfolio/tree/main/Assets).
+4. **Assets Folder**: This section contains the actual files and resources related to our project. These files might include documents, design files (e.g., Figma prototypes), or other relevant materials. Access it throught the **Assests** folder or throught this [link](https://github.com/jomermandap/HCI_School_Portfolio/tree/main/Assets).
 
 ## Navigating the Porfolio
 1. **GitHub Repository**: The portfolio is hosted on GitHub, a popular platform for version control and collaboration. You can access the repository at [Github Link](https://github.com/jomermandap/HCI_School_Portfolio).
