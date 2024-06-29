@@ -1,4 +1,4 @@
-# HCI_School_Portfolio
+# HCI School Portfolio
 This repository serves as the final project for LinTech's HCI course. It contains all the necessary files for the project, including a user manual, a Coursera certificate, and the team's logo. 
 The user manual provides detailed instructions for using the project and features a user-friendly interface designed to demonstrate the team's understanding of HCI principles.
 ## The Logo
