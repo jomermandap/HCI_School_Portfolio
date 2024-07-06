@@ -7,12 +7,15 @@ The portfolio is structured using the following components:
 1. **Team Logo**: The logo represents our team's identity and is visually appealing, emphasizing user-centered design principles.
 2. **Coursera Certificate**: This certificate serves as documentation of our successful completion of the HCI course, demonstrating our dedication to learning and applying HCI principles.
 3. **User Manual**: This document, which you are currently reading, provides detailed information on navigating the portfolio and understanding its purpose.
-4. **Assets Folder**: This section contains the actual files and resources related to our project. These files might include documents, design files (e.g., Figma prototypes), or other relevant materials. Access it throught the **Assests** folder or throught this [link](https://github.com/jomermandap/HCI_School_Portfolio/tree/main/Assets).
-
+4. **Assets Folder**: This section contains the actual files and resources related to our project.
 ## Navigating the Porfolio
 1. **GitHub Repository**: The portfolio is hosted on GitHub, a popular platform for version control and collaboration. You can access the repository at [Github Link](https://github.com/jomermandap/HCI_School_Portfolio).
 2. **README File**: The README file provides an overview of the project, its purpose, and its key features. It also serves as a starting point for navigating the repository.
-3. **Project Files**: The project files are organized into folders (if applicable) to ensure clarity and ease of access. You can explore these folders to find specific files or resources related to the project.
+3. **Certificate**: Holds the certificate that Luis Angelo Fruto earned from the necessary Coursera course.
+4. **Part 1**: Contains key assets, including team logos, the app presentation, and the proposal.
+5. **Part 2**: Includes design proposals, foundational assets, alternatives, wireframes, and app scenarios.
+6. **Part 3**: Features the final mockup/prototype, a detailed app description, survey results, and their analysis.
+7. **Part 4**: Contains the prototype presentation and relevant links.
 
 ## Using Figma Prototypes
 The project includes interactive prototypes created using Figma, you can find them within the project files. To access and interact with the prototypes, follow these steps:
